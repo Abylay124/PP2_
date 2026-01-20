@@ -1,1 +1,2 @@
-print('te')
+import sys 
+print(sys.version)
